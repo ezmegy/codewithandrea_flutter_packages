@@ -17,6 +17,7 @@ dependencies:
     git:
       url: https://github.com/ezmegy/codewithandrea_flutter_packages
       path: packages/alert_dialogs
+      ref: ezmegy
   custom_buttons:
     #path: ../custom_buttons
     git:
